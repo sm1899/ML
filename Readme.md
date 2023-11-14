@@ -1,6 +1,6 @@
 # Machine Learning Algorithms from Scratch
 
-This repository contains Python implementations of three fundamental machine learning algorithms: Linear Regression, K-Means, and PCA using Singular Value Decomposition (SVD). These implementations were created as part of my machine learning course.
+This repository contains Python implementations of three fundamental machine learning algorithms: Linear Regression, K-means, and PCA using Singular Value Decomposition (SVD).
 
 ## Table of Contents
 
